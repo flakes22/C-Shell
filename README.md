@@ -5,7 +5,7 @@ On starting, the shell to display the below prompt
 ```<Username@SystemName:current_path>```
 ### Commands:
 - all the default bash commands
-- hop
+- <bold>hop
     - hop ((~ | . | .. | - | name)*)?
     - ”~” or No Arguments: Change the CWD to the shell’s home directory.
     - ”.”: Do nothing (i.e. stay in the same CWD)
