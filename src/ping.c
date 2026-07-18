@@ -1,4 +1,4 @@
-// LLM GENERATED CODE BEGINS
+
 #include "../include/header.h"
 
 void handle_ping(char **tokens) {
@@ -37,5 +37,3 @@ void handle_ping(char **tokens) {
     
     printf("Sent signal %d to process with pid %d\n", signal_number, pid);
 }
-
-// LLM GENERATED CODE ENDS

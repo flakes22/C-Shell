@@ -1,4 +1,4 @@
-// LLM GENERATED CODE BEGINS
+
 #include "../include/header.h"
 
 int add_job(pid_t pid, char *command, int status) {
@@ -79,4 +79,3 @@ int cmp_jobs(const void *a, const void *b)
     
     return 0;
 }
-// LLM GENERATED CODE BEGINS

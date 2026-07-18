@@ -1,4 +1,4 @@
-// LLM GENERATED CODE BEGINS
+
 #include "../include/header.h"
 
 void handle_fg(char *input) {
@@ -136,5 +136,3 @@ void handle_bg(char *input) {
     printf("[%d] %s &\n", job->job_id, job->command);
     free(input_copy);
 }
-
-// LLM GENERATED CODE ENDS

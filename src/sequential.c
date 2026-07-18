@@ -1,4 +1,4 @@
-// LLM GENERATED CODE ENDS
+
 #include "../include/header.h"
 
 // Function to check if a command contains redirection operators
@@ -146,5 +146,3 @@ void execute_sequential(char *input) {
     
     free(input_copy);
 }
-
-// LLM GENERATED CODE ENDS

@@ -1,4 +1,4 @@
-// LLM GENERATED CODE BEGINS
+
 #include "../include/header.h"
 
 void handle_reveal(char *input, char *home_dir, char *pwd) {
@@ -134,4 +134,3 @@ void handle_reveal(char *input, char *home_dir, char *pwd) {
     
     free(input_copy);
 }
-// LLM GENERATED CODE ENDS

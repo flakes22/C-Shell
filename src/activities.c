@@ -1,4 +1,4 @@
-// LLM GENERATED CODE BEGINS
+
 #include "../include/header.h"
 
 void handle_activities()
@@ -131,5 +131,3 @@ void cleanup_jobs()
         }
     }
 }
-
-// LLM GENERATED CODE ENDS

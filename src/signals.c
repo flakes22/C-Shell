@@ -1,4 +1,4 @@
-// LLM GENERATED CODE BEGINS
+
 #include "../include/header.h"
 #include <sys/types.h>
 #include <signal.h>
@@ -49,5 +49,3 @@ void sigtstp_handler(int sig) {
         tcsetpgrp(STDIN_FILENO, getpgrp());
     }
 }
-
-// LLM GENERATED CODE ENDS

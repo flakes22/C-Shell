@@ -1,4 +1,4 @@
-// LLM GENERATED CODE BEGINS
+
 
 #include"../include/header.h"
 
@@ -216,5 +216,3 @@ void load_log_from_file(char *home_dir)
     
     fclose(file);
 }
-
-// LLM GENERATED CODE ENDS
